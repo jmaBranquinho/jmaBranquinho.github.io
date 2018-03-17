@@ -309,7 +309,7 @@ jQuery(function ($) {
                 position: myLatlng,
                 map: map,
                 animation: google.maps.Animation.DROP,
-                title: 'Hello World!'
+                title: 'Jorge Branquinho'
             });
 
             var contentString = '' +
